@@ -10,7 +10,7 @@ registries:
 updates:
   # 1) Proyecto principal
   - package-ecosystem: nuget
-    directory: "/src/UNIR.TFE.Polyrepo.Addition.Module"
+    directory: "/src/UNIR.TFE.Polyrepo.Subtraction.Module"
     registries:
       - gh-nuget-ajunquit
     allow:
