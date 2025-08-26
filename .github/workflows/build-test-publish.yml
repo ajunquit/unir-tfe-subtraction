@@ -1,4 +1,4 @@
-name: publish-nuget
+name: build-test-publish
 on:
   push:
     branches: [main]     # Auto-versionado en CI
